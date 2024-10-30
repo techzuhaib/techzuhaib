@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zuhaib
 - 👀 I’m interested in AI Image generation, stable diffusion, python
-- 🌱 I’m currently learning pytorch, ComfyUI, Model training with kohya_gui
+- 🌱 I’m currently learning pytorch, ComfyUI, Fine-tuning SD Models
 - 📫 I have a YouTube channel on my name @zuhaib r
 - 😄 Pronouns: zuhaib R
 
