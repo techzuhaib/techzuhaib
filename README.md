@@ -1,7 +1,7 @@
 - 👋 Hi, I’m zuhaib
 - 👀 I’m interested in AI Image/video generation, python
-- 🌱 I’m currently learning ComfyUI, Fine-tuning diffusion Models
-- 📫 I have a YouTube channel on my name @zuhaib r
+- 🌱 I’m currently learning ComfyUI, diffusion Models
+- 📫 I have a YouTube channel on my name @zuhab r
 - 😄 Pronouns: zuhaib R
 
 <!---
