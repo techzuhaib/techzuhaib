@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zuhaib
 - 👀 I’m interested in AI Image/video generation, AI Agents/Bots/Companions
-- 🌱 I’m currently learning ComfyUI, diffusion Models, and Backend web development
+- 🌱 I’m currently learning ComfyUI, diffusion Models, and python and Web development
 - 📫 I have a YouTube channel on my name @zuhaib r
 - 😄 Pronouns: zuhaib R
 
